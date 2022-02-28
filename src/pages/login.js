@@ -9,7 +9,7 @@ function Login() {
     return (
         <Cover>
             <Header>
-                Login Page
+                Log in to your account.
             </Header>
             <form>
                     <InputField placeholder="Login" type="text" label="Login:" onChange={e => e.target.value}
