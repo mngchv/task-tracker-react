@@ -8,7 +8,7 @@ const Input = styled.input`
   font-size: 32px;
   display: block;
   margin-bottom: 10px;
-  margin-left: 40px;
+  margin-left: 50px;
 `
 
 
