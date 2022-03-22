@@ -1,10 +1,11 @@
+import Registration from "./pages/registration";
 import Login from "./pages/login";
 
 function App() {
   return (
     <div>
-        <Login />
-
+        <Registration/>
+        <Login/>
     </div>
   );
 }
